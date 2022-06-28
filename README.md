@@ -24,11 +24,7 @@ Tests run: 5, Failures: 0, Errors: 0, Skipped: 0
 ```
 
 ### Run Application
-go to <b>/target</b> directory and run the below command:
-
-```bash
-java -jar Exercise-two-1.0.jar
-```
+Open the application on your prefered IDE and Run application.class 
 
 
 
