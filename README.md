@@ -2,10 +2,19 @@
 
 This File build based on JAVA 11 and maven 3.8.3 , please make sure you have maven in your local pc <br/>
 
-### Run JUnit Test
+### Build Run JUnit Test
 Use the below command on terminal to create jar file and run uint test
 ```bash
 mvn clean install
+```
+To run test only type the below command :
+```bash
+mvn test
+```
+
+To Skip test and build jar file only type below command:
+```bash
+mvn clean install -Dmavnen.test.skip=true
 ```
 
 you will get results like this :
