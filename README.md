@@ -24,13 +24,15 @@ Tests run: 5, Failures: 0, Errors: 0, Skipped: 0
 ```
 
 ### Run Application
-Open the application on your prefered IDE and Run application.class , the terminal will ask about CSV file type below the file name :
-order_log00.csv
+Go to target directory and run the below command 
+ ```bash
+ java -jar Exercise-two-jar-with-dependencies.jar
+```
+The app asked the full path of yourr file in my case :
+<b>e.g: c:/report/order_log00.csv</b>
 
-The application will read  the file and generate two output file as below :<br/>
-0_order_log00.csv<br/>
-1_order_log00.csv<br/>
+The application will  generate two output file file in the same  order_log00 file directory:<br/>
+c:/report/0_order_log00.csv<br/>
+c:/report/1_order_log00.csv<br/>
 
-### Note
-The application not tested based on Runable Jar File and will may run exception
 
