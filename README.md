@@ -28,7 +28,8 @@ Go to target directory and run the below command
  ```bash
  java -jar Exercise-two-jar-with-dependencies.jar
 ```
-~Fullpath/order_log00.csv
+The app asked the full path of yourr file in my case :
+<b>e.g: c:/report/order_log00.csv</b>
 
 The application will  generate two output file file in the same  order_log00 file directory:<br/>
 0_order_log00.csv<br/>
