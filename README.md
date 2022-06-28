@@ -32,7 +32,7 @@ The app asked the full path of yourr file in my case :
 <b>e.g: c:/report/order_log00.csv</b>
 
 The application will  generate two output file file in the same  order_log00 file directory:<br/>
-0_order_log00.csv<br/>
-1_order_log00.csv<br/>
+c:/report/0_order_log00.csv<br/>
+c:/report/1_order_log00.csv<br/>
 
 
