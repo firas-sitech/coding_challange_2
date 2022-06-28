@@ -32,7 +32,7 @@ The app asked the file , type file name or profile full path to your file
 <b>order_log00.csv</b>
 
 The application will  generate two output file file in the same  order_log00 file directory:<br/>
-c:/report/0_order_log00.csv<br/>
-c:/report/1_order_log00.csv<br/>
+~/jar/0_order_log00.csv<br/>
+~/jar/1_order_log00.csv<br/>
 
 
