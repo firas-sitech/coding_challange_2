@@ -24,7 +24,12 @@ Tests run: 5, Failures: 0, Errors: 0, Skipped: 0
 ```
 
 ### Run Application
-Open the application on your prefered IDE and Run application.class 
+Open the application on your prefered IDE and Run application.class , the terminal will ask about CSV file type below the file name :
+order_log00.csv
+
+The application will read  the file and generate two output file as below :<br/>
+0_order_log00.csv<br/>
+1_order_log00.csv<br/>
 
 ### Note
 The application not tested based on Runable Jar File and will may run exception
