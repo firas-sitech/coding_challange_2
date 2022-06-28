@@ -51,7 +51,9 @@
                             <goal>single</goal>
                         </goals>
                         <configuration>
-                            <finalName>Exercise-two</finalName>
+                            <outputDirectory>
+								jar
+							</outputDirectory>
                             <archive>
                                 <manifest>
                                     <mainClass>
