@@ -24,12 +24,12 @@ Tests run: 5, Failures: 0, Errors: 0, Skipped: 0
 ```
 
 ### Run Application
-Go to target directory and run the below command 
+Go to JAR directory and run the below command 
  ```bash
- java -jar Exercise-two-jar-with-dependencies.jar
+ java -jar Exercise-two-1.0-jar-with-dependencies.jar
 ```
-The app asked the full path of yourr file in my case :
-<b>e.g: c:/report/order_log00.csv</b>
+The app asked the file , type file name or profile full path to your file 
+<b>order_log00.csv</b>
 
 The application will  generate two output file file in the same  order_log00 file directory:<br/>
 c:/report/0_order_log00.csv<br/>
